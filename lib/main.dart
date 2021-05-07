@@ -43,7 +43,35 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      home: Scaffold(),
+      home: Shell(),
+    );
+  }
+}
+
+class Shell extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Column(
+        children: [
+          Expanded(
+            child: Row(
+              children: [
+                Container(
+                  color: Colors.green,
+                  width: 200.0,
+                  height: double.infinity,
+                ),
+              ],
+            ),
+          ),
+          Container(
+            width: double.infinity,
+            color: Colors.blue,
+            height: 84.0,
+          ),
+        ],
+      ),
     );
   }
 }
