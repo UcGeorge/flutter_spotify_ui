@@ -93,3 +93,5 @@ windows/flutter/ephemeral/generated_config.cmake
 windows/flutter/ephemeral/icudtl.dat
 windows/flutter/ephemeral/generated_config.cmake
 windows/flutter/ephemeral/generated_config.cmake
+.vscode/settings.json
+.vscode/launch.json
