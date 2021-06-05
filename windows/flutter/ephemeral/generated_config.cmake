@@ -9,10 +9,9 @@ list(APPEND FLUTTER_TOOL_ENVIRONMENT
   "FLUTTER_ROOT=C:\\src\\flutter"
   "FLUTTER_EPHEMERAL_DIR=D:\\Xampp\\htdocs\\flutter_spotify_ui\\windows\\flutter\\ephemeral"
   "PROJECT_DIR=D:\\Xampp\\htdocs\\flutter_spotify_ui"
-  "FLUTTER_TARGET=D:\\Xampp\\htdocs\\flutter_spotify_ui\\lib\\main.dart"
-  "DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ=="
+  "FLUTTER_TARGET=lib\\main.dart"
   "DART_OBFUSCATION=false"
   "TRACK_WIDGET_CREATION=true"
-  "TREE_SHAKE_ICONS=false"
+  "TREE_SHAKE_ICONS=true"
   "PACKAGE_CONFIG=D:\\Xampp\\htdocs\\flutter_spotify_ui\\.dart_tool\\package_config.json"
 )
