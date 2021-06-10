@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_spotify_ui/data/data.dart';
+import 'package:flutter_spotify_ui/models/models.dart';
 
 class PlaylistHeader extends StatelessWidget {
   final Playlist playlist;
